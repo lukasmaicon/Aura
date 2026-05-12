@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+  background-color: #0c0f14;
+}
+
+body,
+#root {
+  min-height: 100vh;
+  min-height: 100dvh;
+  background-color: #0c0f14;
+  color: #f4f4f5;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+}
