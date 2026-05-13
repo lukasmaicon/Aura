@@ -1,8 +1,9 @@
 # Aura — Viagens Premium & IA / Premium Travel & AI
 
-## Português
 
-Uma landing page moderna desenvolvida com React 19, focada em design sofisticado e performance. O projeto simula uma agência de viagens de luxo integrada com inteligência artificial para roteiros personalizados.
+## <a name="português"></a>🇧🇷 Português
+
+Uma landing page desenvolvida com React, focada em design e performance. O projeto simula uma agência de viagens integrada com inteligência artificial para roteiros personalizados.
 
 ### Tecnologias Utilizadas
 
@@ -17,14 +18,13 @@ Uma landing page moderna desenvolvida com React 19, focada em design sofisticado
 1. Instale as dependências: npm install
 2. Inicie o servidor: npm run dev
 
-### Desenvolvedor
-Desenvolvido por Lucas Maicon — Estudante de Análise e Desenvolvimento de Sistemas.
+
 
 ---
 
-## English Version
+## <a name="english"></a>🇺🇸 English
 
-A modern landing page developed with React 19, focusing on sophisticated design and performance. The project simulates a luxury travel agency integrated with AI for personalized itineraries.
+A landing page developed with React, focusing on design and performance. The project simulates a travel agency integrated with Artificial Intelligence for personalized itineraries.
 
 ### Technologies Used
 
@@ -46,5 +46,8 @@ src/
 ├── data/           # Static data & configurations
 └── App.tsx         # Main application file
 
-### Developer
-Developed by Lucas Maicon — Systems Analysis and Development student.
+---
+
+<p align="center">
+  <strong> Desenvolvedor Lucas Maicon &lt;/&gt;</strong> 
+</p>
